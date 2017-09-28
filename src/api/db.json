@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 49378434,
+      "firstName": "Braden",
+      "lastName": "Johns",
+      "email": "Gust88@gmail.com"
+    },
+    {
+      "id": 20350465,
+      "firstName": "Waldo",
+      "lastName": "Goyette",
+      "email": "Dangelo.Hintz@gmail.com"
+    },
+    {
+      "id": 47269340,
+      "firstName": "Mandy",
+      "lastName": "Volkman",
+      "email": "Eleanore_Crist@yahoo.com"
+    },
+    {
+      "id": 18019532,
+      "firstName": "Bette",
+      "lastName": "Trantow",
+      "email": "Brent34@yahoo.com"
+    }
+  ]
+}
